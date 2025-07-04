@@ -1,0 +1,9 @@
+/* Custom styles for the Bootstrap 4 website */
+
+.jumbotron {
+  background-color: #e9f7fa;
+}
+
+footer {
+  font-size: 1rem;
+} 
